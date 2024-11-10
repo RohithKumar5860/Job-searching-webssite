@@ -22,6 +22,9 @@
   The rececent job section show the  on which domain the job openings are open and the skills required to the job.
 </p>
 <h4>
+<\h4>
+<img src = =" hiring.png'>
+<h4>
   last page
 </h4>
 <img src = "lastpage.png">
